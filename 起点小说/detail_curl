@@ -1,0 +1,9 @@
+curl \
+-H "QDSign: R7TCs6Tou2Vo8BjB2KkHMhcMbI/EzuC5WyhdFXQwKHI4PIcA18iH9TV1en45 D5GrSeYEyuw4VJlkxKGTebMODeZwyuh744QmO7nVa8Z9wWUft1lFyzd9hIo7 fT4EAB56LZ0JQ1Q2ESwZjkEssEaJZmZetkyVovqytKXu0chBcBE=" \
+-H "borgus: 724a66f50bcfe447aef534b27b6fdb10" \
+-H "cecelia: 2_cd870db20ff8efa310e442b663e988e9a5fc6ca6981a1803256096198527f77cc9dd" \
+-H "tstamp: 1702130934241" \
+-H "QDInfo: 7TmYDueUG+8FzFUCd53oZWhNloWHK8uZ0ilyTLISIasR94WWr3BTjgUKbRUYaNuvMCOHHewwVVGz1W6oST2OZ36MmpwWLsIvJl0M3K0GW3g0xcjzRFsoesWxHbB71pwQ0PdH9leu4nizCJZJDnw+Px9J5bUkohHbnfapAuaJh6N11dRJ8etuFn0Cy5QPysrNZ2FdeZD7mynV10ZSt23hHJk5N9eqxrzR" \
+-H "gorgon: qsj8PtpxhE5ZIUb2TZxOuZu2yWR_-4enWZyfVg5egTmCnguwsTQ2vlJfiDJfBBK3IfIuU2Ccv4hSJyYDwi5lI_AUD67HKenngHQOYrznZl5ZtVLbRJCp_n2JD9l4ppV-P0d4So776SXLKj-c2sE6WsVAWCGlO9i8Tkn7emV5jlTJLBwhoPF7If9wwtKJWpbychJ-2tSxgd8wNjEzNjkzZjQyYTk4ZDZjNmNhYWNlOWJkYzZhYzNkZA==" \
+-H "Host: druidv6.if.qidian.com" --compressed "https://druidv6.if.qidian.com/argus/api/v3/bookdetail/get?bookId=1037750281&isOutBook=0"
+

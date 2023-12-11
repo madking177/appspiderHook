@@ -1,0 +1,1030 @@
+{
+  "api": "mtop.taobao.idle.awesome.detail.unit",
+  "data": {
+    "uiTemplateDO": {},
+    "needDecryptKeys": [
+      "sellerDO.nick",
+      "flowData.body.sections.components.data.sellerId",
+      "sellerDO.uniqueName",
+      "flowData.body.sections.components.data.nick",
+      "trackParams.sellerId",
+      "sellerDO.identityTags.link",
+      "sellerDO.sellerItems.link",
+      "flowData.floating.components.data.sellerId",
+      "flowData.body.sections.components.data.jumpLink",
+      "flowData.body.sections.components.data.userInfo.sellerId",
+      "flowData.floating.components.data.nick",
+      "flowData.body.sections.components.data.uniqueName",
+      "sellerDO.sellerId",
+      "flowData.body.sections.components.data.trackParams.sellerId",
+      "flowData.body.sections.components.data.waterMark",
+      "flowData.floating.components.data.userId",
+      "flowData.body.sections.components.data.metaInfo.waterMark",
+      "itemDO.trackParams.sellerId",
+      "flowData.body.sections.components.data.userInfo.nick"
+    ],
+    "itemDO": {
+      "itemType": "detailPlayBoy",
+      "noPicItem": "false",
+      "simpleItem": "true",
+      "originalPrice": "0",
+      "transportFee": "7.00",
+      "itemStatusStr": "在线",
+      "shareData": {
+        "shareReportUrl": "https://market.m.taobao.com/app/msd/aq-idlefish-report/pages/report?wh_weex=true&reportType=item&itemid=741848576212",
+        "shareHelpUrl": "https://h5.m.goofish.com/app/service-hall/sh-rax-web/goofish.html?hcAppId=1283&hcPageCode=home&hcFromCode=dIekpEBMI&item_id=741848576212",
+        "shareInfoJsonString": "{\"contentParams\":{\"headerParams\":{\"subTitle\":\"发布于潍坊\",\"title\":\"黄宇航的前女友\",\"userAvatar\":\"http://img.alicdn.com/bao/uploaded/i2/O1CN01fpGMn51jDSdbegirM_!!0-mtopupload.jpg\",\"userTag\":{\"height\":\"32\",\"image\":\"https://gw.alicdn.com/bao/uploaded/TB1E3aKPFXXXXcKXpXXXXXXXXXX-32-32.png\",\"width\":\"32\"}},\"mainParams\":{\"content\":\"【出】PUMA彪马官方 拼接印花双肩包书包 PHASE AOP 078046\\n荷花粉 容量很大\\n本人目前不在国内 一月中旬之后发货\\n原价189r 已自刀 不包邮\\n标价可直拍 有意者私聊\",\"contentMaxLine\":\"2\",\"extra\":{\"descRelativeTags\":[],\"priceRelativeTags\":[],\"soldPrice\":\"50\"},\"images\":[{\"height\":\"1920\",\"image\":\"http://img.alicdn.com/bao/uploaded/i4/O1CN01sNQkbD1jDSj5mk1wn_!!53-fleamarket.heic\",\"width\":\"1330\"}]}},\"sceneId\":\"741848576212\",\"sceneType\":\"detail\",\"shareMessageCard\":{\"coverImg\":\"\",\"subTitle\":\"\",\"title\":\"\"},\"url\":\"fleamarket://item?id=741848576212&flutter=true&ignoreMiddle=true\",\"version\":2}"
+      },
+      "cpvLabels": [
+        {
+          "valueId": "30087",
+          "propertyName": "款式",
+          "valueName": "双肩包",
+          "propertyId": "225890554"
+        },
+        {
+          "valueId": "20581",
+          "propertyName": "品牌",
+          "valueName": "Puma/彪马",
+          "propertyId": "20000",
+          "url": "https://h5.m.goofish.com/wow/moyu/moyu-project/shopping-guide/pages/home?titleVisible=false&topicId=12384"
+        },
+        {
+          "valueId": "1451890569",
+          "propertyName": "成色",
+          "valueName": "轻微使用痕迹",
+          "propertyId": "20879"
+        }
+      ],
+      "richTextDesc": "{\"type\":null,\"children\":[{\"type\":\"Element\",\"children\":[{\"type\":\"Text\",\"text\":\"【出】PUMA彪马官方 拼接印花双肩包书包 PHASE AOP 078046\",\"properties\":{}}],\"properties\":{}},{\"type\":\"Element\",\"children\":[{\"type\":\"Text\",\"text\":\"荷花粉 容量很大\",\"properties\":{}}],\"properties\":{}},{\"type\":\"Element\",\"children\":[{\"type\":\"Text\",\"text\":\"本人目前不在国内 一月中旬之后发货\",\"properties\":{}}],\"properties\":{}},{\"type\":\"Element\",\"children\":[{\"type\":\"Text\",\"text\":\"原价189r 已自刀 不包邮\",\"properties\":{}}],\"properties\":{}},{\"type\":\"Element\",\"children\":[{\"type\":\"Text\",\"text\":\"标价可直拍 有意者私聊\",\"properties\":{}}],\"properties\":{}},{\"type\":\"Element\",\"children\":[{\"type\":\"Text\",\"text\":\"\",\"properties\":{}}],\"properties\":{}}],\"properties\":{},\"version\":\"1.0\"}",
+      "wantCntUnit": "人想要",
+      "templateId": "999",
+      "title": "【出】PUMA彪马官方 拼接印花双肩包书包 PHASE AO",
+      "promotionPriceDO": {
+        "promotionPriceTag": "粉丝更优惠",
+        "promotionAdditionInfo": {
+          "showFollowGuide": "1"
+        },
+        "additionMap": {}
+      },
+      "trackParams": {
+        "itemId": "741848576212",
+        "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+        "idlelabel_serviceUtParams": "[]",
+        "sellerBucketId": "17",
+        "idlelabel_bucketId": "13",
+        "idlelabel_unShowTrackParams": "{}"
+      },
+      "userInputTopics": [],
+      "interactFavorCnt": "0",
+      "itemStatus": "0",
+      "soldPrice": "50",
+      "charitableTag": {
+        "iconHeight": "60",
+        "iconWidth": "204",
+        "iconUrl": "http://gw.alicdn.com/mt/TB1FjjLdkcx_u4jSZFlXXXnUFXa-204-60.png"
+      },
+      "descRelativeTags": [],
+      "itemLabelExtList": [
+        {
+          "channelCateId": "126864800",
+          "labelId": "15466134",
+          "labelType": "common",
+          "from": "newPublishChoice",
+          "text": "双肩背包",
+          "properties": "-10000##分类:126864800##双肩背包"
+        },
+        {
+          "channelCateId": "126864800",
+          "labelId": "167390667",
+          "labelType": "common",
+          "from": "newPublishChoice",
+          "text": "双肩包",
+          "properties": "225890554##款式:30087##双肩包"
+        },
+        {
+          "channelCateId": "126864800",
+          "labelId": "526",
+          "labelType": "common",
+          "from": "newPublishChoice",
+          "text": "Puma/彪马",
+          "properties": "20000##品牌:20581##Puma/彪马"
+        },
+        {
+          "channelCateId": "126864800",
+          "labelId": "15488612",
+          "labelType": "common",
+          "from": "newPublishChoice",
+          "text": "轻微使用痕迹",
+          "properties": "20879##成色:1451890569##轻微使用痕迹"
+        }
+      ],
+      "tradeBanners": [],
+      "spuTopics": [],
+      "browseCnt": "46",
+      "defaultPrice": "false",
+      "priceRelativeTags": [],
+      "priceUnit": "",
+      "imageInfos": [
+        {
+          "major": "true",
+          "widthSize": "1330",
+          "heightSize": "1920",
+          "type": "0",
+          "url": "http://img.alicdn.com/bao/uploaded/i4/O1CN01sNQkbD1jDSj5mk1wn_!!53-fleamarket.heic",
+          "labels": []
+        }
+      ],
+      "quantity": "1",
+      "titleIsUserInput": "false",
+      "priceTextTags": [
+        {
+          "borderColor": "#7FFF4400",
+          "trackParams": {
+            "tagType": "coin_pay"
+          },
+          "bgColor": "#FFFFFF",
+          "text": "闲鱼币抵2.50元",
+          "additionMap": {},
+          "textColor": "#FF4400",
+          "order": "2"
+        }
+      ],
+      "collectCnt": "0",
+      "favorCnt": "0",
+      "recommendTagList": [],
+      "cpvTopics": [
+        {
+          "trackParams": {
+            "is_useradd": "0",
+            "theme_id": "12384",
+            "theme_name": "Puma/彪马",
+            "theme_type": "2"
+          },
+          "pvList": [
+            {
+              "valueId": "20581",
+              "propertyId": "20000"
+            }
+          ],
+          "name": "Puma/彪马",
+          "id": "12384",
+          "targetUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/shopping-guide/pages/home?titleVisible=false&topicId=12384"
+        }
+      ],
+      "gmtCreate": "1696590380000",
+      "croControl": [],
+      "itemId": "741848576212",
+      "GMT_CREATE_DATE_KEY": "2023-10-06 19:06:20",
+      "charitableItem": "false",
+      "wantCnt": "1",
+      "defaultPicture": "false",
+      "secuGuide": {
+        "secuTitle": "什么是闲鱼支付宝担保交易？",
+        "secuIcon": "https://img.alicdn.com/imgextra/i4/O1CN01rK5Qxk23BR5gvdj8j_!!6000000007217-2-tps-48-48.png",
+        "secuContent": "担保交易",
+        "secuBtmContext": "点击查看更多知识",
+        "secuBtm": "请保证在闲鱼平台进行支付，否则闲鱼将无法保证您交易的安全。",
+        "secuBtmUrl": "https://alimebot.goofish.com/intl/index.htm?from=vcWV25EkPP",
+        "secuBody": "https://gw.alicdn.com/mt/TB1V4Q9OVXXXXa7aXXXXXXXXXXX-488-430.png"
+      },
+      "itemCatDTO": {
+        "catId": "50122002",
+        "leafId": "1897",
+        "rootChannelCatId": "126866999",
+        "sugShow": "false",
+        "level3ChannelCatId": "126878479",
+        "tbCatId": "122690003",
+        "channelCatId": "126864800",
+        "level2ChannelCatId": "126870041"
+      },
+      "commonTags": [
+        {
+          "borderColor": "#FFEEE3",
+          "trackParams": {
+            "tagType": "coin_pay"
+          },
+          "bgColor": "#FFEEE3",
+          "iconUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01ERqqu41cvhVWqG68Z_!!6000000003663-2-tps-48-48.png",
+          "text": "闲鱼币抵2.50元",
+          "type": "1002",
+          "additionMap": {},
+          "textColor": "#FF4444",
+          "order": "2"
+        }
+      ],
+      "categoryId": "50122002",
+      "desc": "【出】PUMA彪马官方 拼接印花双肩包书包 PHASE AOP 078046\n荷花粉 容量很大\n本人目前不在国内 一月中旬之后发货\n原价189r 已自刀 不包邮\n标价可直拍 有意者私聊"
+    },
+    "sellerDO": {
+      "city": "潍坊",
+      "signature": "大学生 看到就会回复 随机掉落礼物 已读不回拉黑 脾气不大好 做梦要适度",
+      "userRegDay": "0",
+      "hasSoldNumInteger": "333",
+      "publishCity": "发布于潍坊",
+      "nick": "ml6yId7SarARCJ58TmYciZDagPw/Uik1uXBszlBRjoo=",
+      "sellerStatisticsInfoList": [],
+      "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+      "lastVisitTime": "刚刚擦亮",
+      "replyIn24hRatioDouble": "1.0",
+      "avgReply30dLong": "11",
+      "sellerBizTags": [],
+      "replyRatio24h": "100%",
+      "replyInterval": "11分钟",
+      "portraitUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01fpGMn51jDSdbegirM_!!0-mtopupload.jpg",
+      "sellerTypeString": null,
+      "desensitizationNick": "黄***友",
+      "remarkDO": {
+        "sellerDefaultRemarkCnt": "0",
+        "sellerGoodRemarkCnt": "106",
+        "sellerBadRemarkCnt": "0"
+      },
+      "zhimaAuth": "true",
+      "sellerItems": [
+        {
+          "itemId": "641532541326",
+          "link": "UufGaNZl/+zRTdsO+jsMI5O61N4qpWYRiw6fBUPzNcJeessMfA48uJekyqp8jCbEqhD2E5z8NqTJF0dTU5K0ZTEddS2swJT+deieN8ByLo2DDy73OjIvEK683n60+K0P",
+          "fontSize": "12.0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01Ye5Qig1jDSVi6Xa6d_!!0-fleamarket.jpg",
+          "text": "¥5000",
+          "type": "1"
+        },
+        {
+          "itemId": "714495779154",
+          "link": "UufGaNZl/+zRTdsO+jsMI0YiIvN1N+pnS/3lFYq3DXHRHkLGiLrymSRnjY7908iFC4Sgpmpcj4rXeLm2mDgd3AWpetLiDj5uT+J2Kh+yLFTtWy89IuideW7YsKATD53T",
+          "fontSize": "12.0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01TKkue21jDSgWFlr3b_!!53-fleamarket.heic",
+          "text": "¥5000",
+          "type": "1"
+        },
+        {
+          "itemId": "721639794151",
+          "link": "UufGaNZl/+zRTdsO+jsMI0e9a7AAYioEaksifX4alHlW4ozcySFMSpZsmE7fidUshVnaNRASm2io5ni+jDmBHKlOQFhlaxmpiHaZthWtqI1M5++sWizazJM15FPktqrm",
+          "fontSize": "12.0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i1/O1CN019oll4b1jDSgaba7Hf_!!53-fleamarket.heic",
+          "text": "¥5.2",
+          "type": "1"
+        },
+        {
+          "itemId": "740931918035",
+          "link": "UufGaNZl/+zRTdsO+jsMI/mb2pSUzaJPSZgkrhq70CIdprUB6NubR9g8s7s/I5Ak7elJ37hSrJ2aglU+53VVf+3OYPvOrzBx43yy0jL3mKPR94/u1BXy25dQ/glALAWX",
+          "fontSize": "12.0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01WLX4Vd1jDSivVmAvK_!!53-fleamarket.heic",
+          "text": "¥666.66",
+          "type": "1"
+        },
+        {
+          "itemId": "731166691622",
+          "link": "UufGaNZl/+zRTdsO+jsMIxwqJd53eFNvyf4MooncmEQkGCTw9Bb5unRAPKOsEbdmLwyYYfOMxixHsa3ScXjH5jolXaFAVz6JDGpu0pKCtsIYWwkQ7u0bjgkC5Ix/3viT",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01a8bfvT1jDShjG4Os4_!!53-fleamarket.heic",
+          "text": "已卖出",
+          "type": "2"
+        },
+        {
+          "itemId": "730935099299",
+          "link": "UufGaNZl/+zRTdsO+jsMI82aa3RF2/uh7Q5OpuBFGmUyIqSb1vdBQsvTXbEz3Fh+rnFoNBzeacvXGEn02smKp7Eo/51B5Q1kiADLOxBpvGp34J4V0xVKhLVoWm0gcNM0",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i1/O1CN01e75A4J1jDShdqlwaI_!!53-fleamarket.heic",
+          "text": "已卖出",
+          "type": "2"
+        },
+        {
+          "itemId": "712741676756",
+          "link": "UufGaNZl/+zRTdsO+jsMIz44kOFHQ+35bXBdNtV/0cr3TRpKYbQanDEkrYXVyak2G7sErmXtk/NfOLRl7Wm3+vf8buTBTDiVHRt8M2DLstcIuHk+WcyyAutyg5QujxVH",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i1/O1CN01gbuvcl1jDSfgXPQLR_!!53-fleamarket.heic",
+          "text": "已卖出",
+          "type": "2"
+        },
+        {
+          "itemId": "721883320962",
+          "link": "UufGaNZl/+zRTdsO+jsMI2uyx5MsaCIsP3hQJqZAyH7W6smCaf27b4uLBJZ9RFbdU/sDstzWGdypS02KqKztsbE1eLPzTPaKNK9rTUDr3EdsF3u9vC0+W01vxqFRh88g",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i4/O1CN01PCqzL01jDSgaQe6VM_!!53-fleamarket.heic",
+          "text": "已卖出",
+          "type": "2"
+        },
+        {
+          "itemId": "717015303079",
+          "link": "UufGaNZl/+zRTdsO+jsMI+evLWX6zbs4O38gcRjvYiHODAL2WaXg8aCTh61rJ1WKk2B9uqMp52DYbwvzefIwYUF4IIoRDFOnhPjyNQcPkj5/C5GDkqA6OqDfHVT+NrcU",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01bC9h461jDSg1i8pZs_!!53-fleamarket.heic",
+          "text": "已卖出",
+          "type": "2"
+        },
+        {
+          "itemId": "713548289708",
+          "link": "UufGaNZl/+zRTdsO+jsMI5Dr+mgkDHegd6zgrjRI4wsA6138480KFQGTPKYgMfooGr8uCdZhKU8K1ZwViwTRqCLcU7SYpLyMMS+48CZAAhBKXixCrOXZ+zNNM0EwLPBr",
+          "iconUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01liEjbj1jDSfs4Vk3Z_!!53-fleamarket.heic",
+          "text": "已卖出",
+          "type": "2"
+        },
+        {
+          "link": "z9xpXnwzz6eu3JHQFPK2nb4PAGLvMlrcMmttP6latEox4gtYOSqTRQeeiCnb1JVK",
+          "fontSize": "12.0",
+          "iconUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01xb9Lx31ZLZQwXccBK_!!6000000003178-2-tps-276-276.png",
+          "type": "3"
+        }
+      ],
+      "sellerInfoTags": [
+        {
+          "iconHeight": "32",
+          "trackParams": {
+            "shop_tag_type": "single"
+          },
+          "iconWidth": "79",
+          "iconUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pItAAU1h1tMrGXOzo_!!6000000004218-2-tps-117-48.png",
+          "additionMap": {},
+          "order": "99"
+        }
+      ],
+      "itemCount": "600",
+      "zhimaLevelInfo": {},
+      "uniqueName": "ml6yId7SarARCJ58TmYciZDagPw/Uik1uXBszlBRjoo=",
+      "identityTags": [
+        {
+          "iconHeight": "32",
+          "trackParams": {
+            "appearTrackName": "",
+            "trackCtrlName": "Button-Shiren"
+          },
+          "iconWidth": "32",
+          "link": "CcRCaEeyt+eac97qLSoYuE3/aE7yuU5m7yjWtVSqTofybZrpo3SGiXDh2vIPGL83C4sCITFuHFlBlZ8puOtdslBejYtzbItsw3LhhYhcanT2gu2cIqybuhAVXbKUe9Sh",
+          "iconUrl": "https://gw.alicdn.com/bao/uploaded/TB1E3aKPFXXXXcKXpXXXXXXXXXX-32-32.png",
+          "text": "实人认证已通过",
+          "type": "1",
+          "additionMap": {},
+          "order": "99"
+        },
+        {
+          "iconHeight": "32",
+          "trackParams": {
+            "appearTrackName": "",
+            "trackCtrlName": "Button-Zhima"
+          },
+          "iconWidth": "32",
+          "link": "z9xpXnwzz6eu3JHQFPK2nb4PAGLvMlrcMmttP6latEox4gtYOSqTRQeeiCnb1JVK",
+          "iconUrl": "https://gw.alicdn.com/tfs/TB1DuVuB7P2gK0jSZPxXXacQpXa-32-32.png",
+          "text": "芝麻信用已授权",
+          "type": "100",
+          "additionMap": {},
+          "order": "99"
+        }
+      ],
+      "levelTags": [
+        {
+          "iconHeight": "32",
+          "trackParams": {
+            "shop_tag_type": "single"
+          },
+          "iconWidth": "79",
+          "iconUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pItAAU1h1tMrGXOzo_!!6000000004218-2-tps-117-48.png",
+          "additionMap": {},
+          "order": "99"
+        }
+      ]
+    },
+    "trackParams": {
+      "globalBizCode": null,
+      "zhimaOffline": "false",
+      "item_type": null,
+      "sellerInBuyOptions": "newProdPrice|navBarFollowButton|newDetail|sellerReplyStatisticsInfo|nearby|dislikeReport|sellerUpgrade|nearbyBulk|nearbyLuxury|offlineMakePrice|nearbyLowValue",
+      "detailType": "detailPlayBoy",
+      "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+      "idlelabel_serviceUtParams": "[]",
+      "mainPic": "http://img.alicdn.com/bao/uploaded/i4/O1CN01sNQkbD1jDSj5mk1wn_!!53-fleamarket.heic",
+      "sellerInBuyBucketId": "14",
+      "currentFlowVersion": "3",
+      "idlelabel_unShowTrackParams": "{}",
+      "target_type": "item",
+      "idlelabel_bucketId": "13",
+      "target_id": "741848576212",
+      "isMakePriceHidden": "1",
+      "detailSpiVersion": "2",
+      "ab_type": "new_detailPlayBoy",
+      "itemId": "741848576212",
+      "sellerOptions": "simplePub|newTagPage|myPubSameSpu|spuGuide|itemGuide|toBuyB|mtbFeeds|mtbSell|mtbHome|tagV2|tobuyListV2|tobuyQuery|recommendTagsChange|tobuyInitiative|glbV2|ignoreImageEditor|textSameSpu|cpvUnfoldPublish|tellusNewTask|guidePublishTypeB|priceReferenceTag|showResellList|spuBottomBarItem|myPublish91|publishSyncToCircle|directPublish|searchPublishEntry|textLengthDiagnosis|poiLab|themePublishBanner|myPublish92|myPubActivityEntry|myPublish932|accountGuarantee",
+      "utAttributeKey_idleCoinDeductionRatio": "0.05",
+      "detailRedirectPublishUrl": "",
+      "xnamespace": null,
+      "xGlobalBizCode": null,
+      "namespace": null,
+      "sellerBucketId": "17",
+      "zhimaLogBucketId": "16",
+      "categoryId": "50122002"
+    },
+    "dataType": "1",
+    "flowData": {
+      "needDecryptKeys": [
+        "flowData.floating.components.data.nick",
+        "flowData.body.sections.components.data.sellerId",
+        "flowData.body.sections.components.data.uniqueName",
+        "flowData.body.sections.components.data.nick",
+        "flowData.body.sections.components.data.waterMark",
+        "flowData.body.sections.components.data.metaInfo.waterMark",
+        "flowData.floating.components.data.sellerId",
+        "flowData.body.sections.components.data.userInfo.nick"
+      ],
+      "trackParams": {
+        "zhimaOffline": "false",
+        "target_type": "item",
+        "idlelabel_bucketId": "13",
+        "target_id": "741848576212",
+        "isMakePriceHidden": "1",
+        "sellerInBuyOptions": "newProdPrice|navBarFollowButton|newDetail|sellerReplyStatisticsInfo|nearby|dislikeReport|sellerUpgrade|nearbyBulk|nearbyLuxury|offlineMakePrice|nearbyLowValue",
+        "detailSpiVersion": "2",
+        "itemId": "741848576212",
+        "sellerOptions": "simplePub|newTagPage|myPubSameSpu|spuGuide|itemGuide|toBuyB|mtbFeeds|mtbSell|mtbHome|tagV2|tobuyListV2|tobuyQuery|recommendTagsChange|tobuyInitiative|glbV2|ignoreImageEditor|textSameSpu|cpvUnfoldPublish|tellusNewTask|guidePublishTypeB|priceReferenceTag|showResellList|spuBottomBarItem|myPublish91|publishSyncToCircle|directPublish|searchPublishEntry|textLengthDiagnosis|poiLab|themePublishBanner|myPublish92|myPubActivityEntry|myPublish932|accountGuarantee",
+        "utAttributeKey_idleCoinDeductionRatio": "0.05",
+        "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+        "detailRedirectPublishUrl": "",
+        "idlelabel_serviceUtParams": "[]",
+        "mainPic": "http://img.alicdn.com/bao/uploaded/i4/O1CN01sNQkbD1jDSj5mk1wn_!!53-fleamarket.heic",
+        "sellerBucketId": "17",
+        "sellerInBuyBucketId": "14",
+        "currentFlowVersion": "3",
+        "zhimaLogBucketId": "16",
+        "categoryId": "50122002",
+        "idlelabel_unShowTrackParams": "{}"
+      },
+      "floating": {
+        "components": [
+          {
+            "data": {
+              "nick": "黄宇航的前女友",
+              "itemId": "741848576212",
+              "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+              "left": "0",
+              "bottom": "54",
+              "safeArea": "true",
+              "right": "0",
+              "status": "0"
+            },
+            "render": "Basic_Native_quick_question_1",
+            "key": "normal"
+          },
+          {
+            "data": {
+              "isVideoOrPanoStyle": "false",
+              "itemId": "741848576212",
+              "priceUnit": "",
+              "showFocus": "false",
+              "shareImageUrl": "http://img.alicdn.com/bao/uploaded/i4/O1CN01sNQkbD1jDSj5mk1wn_!!53-fleamarket.heic",
+              "originalPrice": "0",
+              "avatarUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01fpGMn51jDSdbegirM_!!0-mtopupload.jpg",
+              "shareData": {
+                "shareReportUrl": "https://market.m.taobao.com/app/msd/aq-idlefish-report/pages/report?wh_weex=true&reportType=item&itemid=741848576212",
+                "shareHelpUrl": "https://h5.m.goofish.com/app/service-hall/sh-rax-web/goofish.html?hcAppId=1283&hcPageCode=home&hcFromCode=dIekpEBMI&item_id=741848576212",
+                "shareInfoJsonString": "{\"contentParams\":{\"headerParams\":{\"subTitle\":\"发布于潍坊\",\"title\":\"黄宇航的前女友\",\"userAvatar\":\"http://img.alicdn.com/bao/uploaded/i2/O1CN01fpGMn51jDSdbegirM_!!0-mtopupload.jpg\",\"userTag\":{\"height\":\"32\",\"image\":\"https://gw.alicdn.com/bao/uploaded/TB1E3aKPFXXXXcKXpXXXXXXXXXX-32-32.png\",\"width\":\"32\"}},\"mainParams\":{\"content\":\"【出】PUMA彪马官方 拼接印花双肩包书包 PHASE AOP 078046\\n荷花粉 容量很大\\n本人目前不在国内 一月中旬之后发货\\n原价189r 已自刀 不包邮\\n标价可直拍 有意者私聊\",\"contentMaxLine\":\"2\",\"extra\":{\"descRelativeTags\":[],\"priceRelativeTags\":[],\"soldPrice\":\"50\"},\"images\":[{\"height\":\"1920\",\"image\":\"http://img.alicdn.com/bao/uploaded/i4/O1CN01sNQkbD1jDSj5mk1wn_!!53-fleamarket.heic\",\"width\":\"1330\"}]}},\"sceneId\":\"741848576212\",\"sceneType\":\"detail\",\"shareMessageCard\":{\"coverImg\":\"\",\"subTitle\":\"\",\"title\":\"\"},\"url\":\"fleamarket://item?id=741848576212&flutter=true&ignoreMiddle=true\",\"version\":2}"
+              },
+              "price": "50",
+              "userId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+              "transparent": "false"
+            },
+            "render": "Basic_Native_appbar_1",
+            "key": "normal"
+          },
+          {
+            "data": {
+              "quantity": "1",
+              "bottom": 0.0,
+              "dataType": "1",
+              "collectCnt": "0",
+              "favorCnt": "0",
+              "isMakePriceHidden": "true",
+              "right": 0.0,
+              "title": "【出】PUMA彪马官方 拼接印花双肩包书包 PHASE AO",
+              "nick": "黄宇航的前女友",
+              "itemId": "741848576212",
+              "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+              "left": 0.0,
+              "sellerUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01fpGMn51jDSdbegirM_!!0-mtopupload.jpg",
+              "itemStatus": "0",
+              "soldPrice": "50",
+              "wantNum": "1",
+              "edituri": "simple_post",
+              "safeArea": "false"
+            },
+            "render": "Basic_Native_bottombar_1",
+            "key": "normal"
+          },
+          {
+            "data": {
+              "itemId": "741848576212",
+              "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+              "left": "0",
+              "bottom": "0",
+              "safeArea": "true",
+              "right": "0"
+            },
+            "render": "Basic_Native_business_coming_1",
+            "key": "normal"
+          }
+        ]
+      },
+      "context": {
+        "is_glue_code": "true"
+      },
+      "configInfo": {
+        "showResellList": "true",
+        "jumpXyh": "true",
+        "currentFlowVersion": "3",
+        "paymentGuideMask": "false"
+      },
+      "body": {
+        "sections": [
+          {
+            "layout": "list",
+            "components": [
+              {
+                "data": {
+                  "userInfo": {
+                    "nick": "ml6yId7SarARCJ58TmYciZDagPw/Uik1uXBszlBRjoo=",
+                    "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+                    "uniqueName": "ml6yId7SarARCJ58TmYciZDagPw/Uik1uXBszlBRjoo=",
+                    "lastVisitTime": "刚刚擦亮",
+                    "avatarUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01fpGMn51jDSdbegirM_!!0-mtopupload.jpg",
+                    "city": "潍坊",
+                    "portraitUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01fpGMn51jDSdbegirM_!!0-mtopupload.jpg",
+                    "desensitizationNick": "黄***友",
+                    "levelTags": [
+                      {
+                        "iconHeight": "32",
+                        "trackParams": {
+                          "shop_tag_type": "single"
+                        },
+                        "iconWidth": "79",
+                        "iconUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pItAAU1h1tMrGXOzo_!!6000000004218-2-tps-117-48.png",
+                        "additionMap": {},
+                        "order": "99"
+                      }
+                    ],
+                    "publishCity": "发布于潍坊"
+                  },
+                  "trackParams": {
+                    "itemId": "741848576212",
+                    "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+                    "sellerBucketId": "17",
+                    "buyerOptions": ""
+                  },
+                  "enableJumpXyh": "true"
+                },
+                "render": "Basic_Native_user_info_2",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "defaultPrice": "false",
+                  "priceUnit": "",
+                  "itemType": "detailPlayBoy",
+                  "originalPrice": "0",
+                  "transportFee": "7.00",
+                  "wantCnt": "1",
+                  "soldPrice": "50",
+                  "qualityUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01MQosre1EmUmuzzD3k_!!6000000000394-2-tps-252-60.png",
+                  "commonTags": [
+                    {
+                      "borderColor": "#FFEEE3",
+                      "trackParams": {
+                        "tagType": "coin_pay"
+                      },
+                      "bgColor": "#FFEEE3",
+                      "iconUrl": "https://gw.alicdn.com/imgextra/i3/O1CN01ERqqu41cvhVWqG68Z_!!6000000003663-2-tps-48-48.png",
+                      "text": "闲鱼币抵2.50元",
+                      "type": "1002",
+                      "additionMap": {},
+                      "textColor": "#FF4444",
+                      "order": "2"
+                    }
+                  ],
+                  "browseCnt": "46",
+                  "idlePromotionInfo": {
+                    "promotionPriceTag": "粉丝更优惠",
+                    "promotionAdditionInfo": {
+                      "showFollowGuide": "1"
+                    },
+                    "additionMap": {}
+                  }
+                },
+                "render": "Basic_Native_price_2",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "itemId": "741848576212"
+                },
+                "render": "Basic_Native_interest_1",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "editorVersion": "0.0.1",
+                  "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+                  "trackParams": {
+                    "itemId": "741848576212",
+                    "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+                    "sellerBucketId": "17"
+                  },
+                  "topics": [
+                    {
+                      "trackParams": {
+                        "is_useradd": "0",
+                        "theme_id": "12384",
+                        "theme_name": "Puma/彪马",
+                        "theme_type": "2"
+                      },
+                      "pvList": [
+                        {
+                          "valueId": "20581",
+                          "propertyId": "20000"
+                        }
+                      ],
+                      "name": "Puma/彪马",
+                      "id": "12384",
+                      "targetUrl": "https://h5.m.goofish.com/wow/moyu/moyu-project/shopping-guide/pages/home?titleVisible=false&topicId=12384"
+                    }
+                  ],
+                  "descRelativeTags": [],
+                  "desc": "【出】PUMA彪马官方 拼接印花双肩包书包 PHASE AOP 078046\n荷花粉 容量很大\n本人目前不在国内 一月中旬之后发货\n原价189r 已自刀 不包邮\n标价可直拍 有意者私聊\n#Puma/彪马 "
+                },
+                "render": "Basic_Native_desc_text_1",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "itemType": "detailPlayBoy",
+                  "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+                  "trackParams": {
+                    "itemId": "741848576212",
+                    "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+                    "sellerBucketId": "17"
+                  },
+                  "cpvLabels": [
+                    {
+                      "valueId": "30087",
+                      "propertyName": "款式",
+                      "valueName": "双肩包",
+                      "propertyId": "225890554"
+                    },
+                    {
+                      "valueId": "1451890569",
+                      "propertyName": "成色",
+                      "valueName": "轻微使用痕迹",
+                      "propertyId": "20879"
+                    }
+                  ]
+                },
+                "render": "Basic_Native_cpv_label_1",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "itemId": "741848576212",
+                  "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+                  "trackParams": {
+                    "itemId": "741848576212",
+                    "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+                    "idlelabel_serviceUtParams": "[]",
+                    "sellerBucketId": "17",
+                    "idlelabel_bucketId": "13",
+                    "idlelabel_unShowTrackParams": "{}"
+                  }
+                },
+                "render": "Basic_Native_question_answer_1",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "itemId": "741848576212",
+                  "imageInfos": [
+                    {
+                      "major": "true",
+                      "widthSize": "1330",
+                      "heightSize": "1920",
+                      "type": "0",
+                      "url": "http://img.alicdn.com/bao/uploaded/i4/O1CN01sNQkbD1jDSj5mk1wn_!!53-fleamarket.heic",
+                      "labels": []
+                    }
+                  ],
+                  "isBizHelpSale": "false",
+                  "displayWaterMark": "false",
+                  "waterMark": "QCeu6/oviockQVr3T153uF3MU2+tGsoj/238NOkepD9x+axWH9hC9KARi5mJQJ56"
+                },
+                "render": "Basic_Native_image_2",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "trackParams": {
+                    "zhimaOffline": "false",
+                    "target_type": "item",
+                    "idlelabel_bucketId": "13",
+                    "target_id": "741848576212",
+                    "isMakePriceHidden": "1",
+                    "sellerInBuyOptions": "newProdPrice|navBarFollowButton|newDetail|sellerReplyStatisticsInfo|nearby|dislikeReport|sellerUpgrade|nearbyBulk|nearbyLuxury|offlineMakePrice|nearbyLowValue",
+                    "detailSpiVersion": "2",
+                    "itemId": "741848576212",
+                    "sellerOptions": "simplePub|newTagPage|myPubSameSpu|spuGuide|itemGuide|toBuyB|mtbFeeds|mtbSell|mtbHome|tagV2|tobuyListV2|tobuyQuery|recommendTagsChange|tobuyInitiative|glbV2|ignoreImageEditor|textSameSpu|cpvUnfoldPublish|tellusNewTask|guidePublishTypeB|priceReferenceTag|showResellList|spuBottomBarItem|myPublish91|publishSyncToCircle|directPublish|searchPublishEntry|textLengthDiagnosis|poiLab|themePublishBanner|myPublish92|myPubActivityEntry|myPublish932|accountGuarantee",
+                    "utAttributeKey_idleCoinDeductionRatio": "0.05",
+                    "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+                    "detailRedirectPublishUrl": "",
+                    "idlelabel_serviceUtParams": "[]",
+                    "mainPic": "http://img.alicdn.com/bao/uploaded/i4/O1CN01sNQkbD1jDSj5mk1wn_!!53-fleamarket.heic",
+                    "sellerBucketId": "17",
+                    "sellerInBuyBucketId": "14",
+                    "currentFlowVersion": "3",
+                    "zhimaLogBucketId": "16",
+                    "categoryId": "50122002",
+                    "idlelabel_unShowTrackParams": "{}"
+                  }
+                },
+                "render": "Basic_Native_ref_product_1",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "itemId": "741848576212",
+                  "trackParams": {
+                    "zhimaOffline": "false",
+                    "target_type": "item",
+                    "idlelabel_bucketId": "13",
+                    "target_id": "741848576212",
+                    "isMakePriceHidden": "1",
+                    "sellerInBuyOptions": "newProdPrice|navBarFollowButton|newDetail|sellerReplyStatisticsInfo|nearby|dislikeReport|sellerUpgrade|nearbyBulk|nearbyLuxury|offlineMakePrice|nearbyLowValue",
+                    "detailSpiVersion": "2",
+                    "itemId": "741848576212",
+                    "sellerOptions": "simplePub|newTagPage|myPubSameSpu|spuGuide|itemGuide|toBuyB|mtbFeeds|mtbSell|mtbHome|tagV2|tobuyListV2|tobuyQuery|recommendTagsChange|tobuyInitiative|glbV2|ignoreImageEditor|textSameSpu|cpvUnfoldPublish|tellusNewTask|guidePublishTypeB|priceReferenceTag|showResellList|spuBottomBarItem|myPublish91|publishSyncToCircle|directPublish|searchPublishEntry|textLengthDiagnosis|poiLab|themePublishBanner|myPublish92|myPubActivityEntry|myPublish932|accountGuarantee",
+                    "utAttributeKey_idleCoinDeductionRatio": "0.05",
+                    "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+                    "detailRedirectPublishUrl": "",
+                    "idlelabel_serviceUtParams": "[]",
+                    "mainPic": "http://img.alicdn.com/bao/uploaded/i4/O1CN01sNQkbD1jDSj5mk1wn_!!53-fleamarket.heic",
+                    "sellerBucketId": "17",
+                    "sellerInBuyBucketId": "14",
+                    "currentFlowVersion": "3",
+                    "zhimaLogBucketId": "16",
+                    "categoryId": "50122002",
+                    "idlelabel_unShowTrackParams": "{}"
+                  },
+                  "userNick": "黄宇航的前女友",
+                  "editTimeStr": "2023-10-06",
+                  "targetType": "item",
+                  "reportUrl": "https://market.m.taobao.com/app/msd/buyer-aqcenter/report.html?bizSource=xianyu&from=itemDetail&subjectType=ITEM&subjectId=741848576212#/index",
+                  "secuGuide": {
+                    "secuTitle": "什么是闲鱼支付宝担保交易？",
+                    "secuIcon": "https://img.alicdn.com/imgextra/i4/O1CN01rK5Qxk23BR5gvdj8j_!!6000000007217-2-tps-48-48.png",
+                    "secuContent": "担保交易",
+                    "secuBtmContext": "点击查看更多知识",
+                    "secuBtm": "请保证在闲鱼平台进行支付，否则闲鱼将无法保证您交易的安全。",
+                    "secuBtmUrl": "https://alimebot.goofish.com/intl/index.htm?from=vcWV25EkPP",
+                    "secuBody": "https://gw.alicdn.com/mt/TB1V4Q9OVXXXXa7aXXXXXXXXXXX-488-430.png"
+                  },
+                  "showDislike": "true",
+                  "desc": "黄宇航的前女友·发布于潍坊"
+                },
+                "render": "Basic_Native_visit_2",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "nick": "ml6yId7SarARCJ58TmYciZDagPw/Uik1uXBszlBRjoo=",
+                  "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+                  "trackParams": {
+                    "price": "50",
+                    "isIdentify": "false"
+                  },
+                  "avatarUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01fpGMn51jDSdbegirM_!!0-mtopupload.jpg",
+                  "tipInfoList": [
+                    {
+                      "title": "卖出订单",
+                      "desc": "用户历史卖出的订单总数；发布宝贝是指用户历史发布过的宝贝总数，包含在售、已售出、已下架、已删除的宝贝，多库存或者重复上架的宝贝按1个计数。"
+                    },
+                    {
+                      "title": "卖出好评",
+                      "desc": "用户卖出宝贝，对方确认收货后发表的好评；卖出评价是指用户卖出宝贝，对方确认收货后发表的评价，不包含无内容的默认评价。"
+                    },
+                    {
+                      "title": "24小时回复率",
+                      "desc": "30天内，用户收到消息后在24小时内完成首次回复的比例；平均回复时长是指30天内，用户在24小时内回复的会话中，首次回复所用的平均时长。"
+                    }
+                  ],
+                  "isGuideShow": "false",
+                  "jumpLink": "z9xpXnwzz6eu3JHQFPK2nb4PAGLvMlrcMmttP6latEqMxZDW82TI5K5XSHZH8tvGfpjjHDi2fM9eFyBmqF8jExCdVs3lVPYEPawdFL24I+Y=",
+                  "attentionState": "0",
+                  "sellerItems": [
+                    {
+                      "itemId": "641532541326",
+                      "link": "fleamarket://item?id=641532541326&detailType=detailCommonBuy&isVideo=true&gulSource=detail",
+                      "fontSize": 10.0,
+                      "iconUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01Ye5Qig1jDSVi6Xa6d_!!0-fleamarket.jpg",
+                      "text": "¥5000",
+                      "type": "1"
+                    },
+                    {
+                      "itemId": "714495779154",
+                      "link": "fleamarket://item?id=714495779154&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+                      "fontSize": 10.0,
+                      "iconUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01TKkue21jDSgWFlr3b_!!53-fleamarket.heic",
+                      "text": "¥5000",
+                      "type": "1"
+                    },
+                    {
+                      "itemId": "721639794151",
+                      "link": "fleamarket://item?id=721639794151&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+                      "fontSize": 10.0,
+                      "iconUrl": "http://img.alicdn.com/bao/uploaded/i1/O1CN019oll4b1jDSgaba7Hf_!!53-fleamarket.heic",
+                      "text": "¥5.2",
+                      "type": "1"
+                    },
+                    {
+                      "itemId": "740931918035",
+                      "link": "fleamarket://item?id=740931918035&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+                      "fontSize": 10.0,
+                      "iconUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01WLX4Vd1jDSivVmAvK_!!53-fleamarket.heic",
+                      "text": "¥666.66",
+                      "type": "1"
+                    },
+                    {
+                      "itemId": "731166691622",
+                      "link": "fleamarket://item?id=731166691622&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+                      "fontSize": 10.0,
+                      "iconUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01a8bfvT1jDShjG4Os4_!!53-fleamarket.heic",
+                      "text": "已卖出",
+                      "type": "2"
+                    },
+                    {
+                      "itemId": "730935099299",
+                      "link": "fleamarket://item?id=730935099299&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+                      "fontSize": 10.0,
+                      "iconUrl": "http://img.alicdn.com/bao/uploaded/i1/O1CN01e75A4J1jDShdqlwaI_!!53-fleamarket.heic",
+                      "text": "已卖出",
+                      "type": "2"
+                    },
+                    {
+                      "itemId": "712741676756",
+                      "link": "fleamarket://item?id=712741676756&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+                      "fontSize": 10.0,
+                      "iconUrl": "http://img.alicdn.com/bao/uploaded/i1/O1CN01gbuvcl1jDSfgXPQLR_!!53-fleamarket.heic",
+                      "text": "已卖出",
+                      "type": "2"
+                    },
+                    {
+                      "itemId": "721883320962",
+                      "link": "fleamarket://item?id=721883320962&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+                      "fontSize": 10.0,
+                      "iconUrl": "http://img.alicdn.com/bao/uploaded/i4/O1CN01PCqzL01jDSgaQe6VM_!!53-fleamarket.heic",
+                      "text": "已卖出",
+                      "type": "2"
+                    },
+                    {
+                      "itemId": "717015303079",
+                      "link": "fleamarket://item?id=717015303079&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+                      "fontSize": 10.0,
+                      "iconUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01bC9h461jDSg1i8pZs_!!53-fleamarket.heic",
+                      "text": "已卖出",
+                      "type": "2"
+                    },
+                    {
+                      "itemId": "713548289708",
+                      "link": "fleamarket://item?id=713548289708&detailType=detailCommonBuy&isVideo=false&gulSource=detail",
+                      "fontSize": 10.0,
+                      "iconUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01liEjbj1jDSfs4Vk3Z_!!53-fleamarket.heic",
+                      "text": "已卖出",
+                      "type": "2"
+                    },
+                    {
+                      "link": "fleamarket://personalPage?userid=2959364514",
+                      "fontSize": 10.0,
+                      "iconUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01xb9Lx31ZLZQwXccBK_!!6000000003178-2-tps-276-276.png",
+                      "type": "3"
+                    }
+                  ],
+                  "tips": [
+                    {
+                      "tipTag": {
+                        "iconHeight": "18",
+                        "iconWidth": "28",
+                        "iconUrl": "https://gw.alicdn.com/imgextra/i2/O1CN015UHP4U1WYu767WKOF_!!6000000002801-2-tps-84-54.png",
+                        "additionMap": {},
+                        "order": "99"
+                      },
+                      "unit": "%",
+                      "descCount": "100",
+                      "title": "卖出好评率",
+                      "desc": "106条评价"
+                    },
+                    {
+                      "tipTag": {
+                        "iconHeight": "18",
+                        "iconWidth": "28",
+                        "iconUrl": "https://gw.alicdn.com/imgextra/i4/O1CN01T0t6p21aTBdQxG00c_!!6000000003330-2-tps-84-54.png",
+                        "additionMap": {},
+                        "order": "99"
+                      },
+                      "unit": "%",
+                      "descCount": "100",
+                      "title": "24小时回复率",
+                      "desc": "平均11分钟内回复"
+                    },
+                    {
+                      "unit": "天",
+                      "descCount": "0",
+                      "title": "来到闲鱼",
+                      "desc": "刚刚擦亮"
+                    }
+                  ],
+                  "identityTitleTags": [
+                    {
+                      "iconHeight": "32",
+                      "trackParams": {
+                        "shop_tag_type": "single"
+                      },
+                      "iconWidth": "79",
+                      "iconUrl": "https://gw.alicdn.com/imgextra/i2/O1CN01pItAAU1h1tMrGXOzo_!!6000000004218-2-tps-117-48.png",
+                      "additionMap": {},
+                      "order": "99"
+                    }
+                  ]
+                },
+                "render": "Basic_Native_xianYuHao_2",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "nick": "ml6yId7SarARCJ58TmYciZDagPw/Uik1uXBszlBRjoo=",
+                  "itemId": "741848576212",
+                  "isMakePriceTabHidden": "true",
+                  "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+                  "itemStatus": "0",
+                  "title": "【出】PUMA彪马官方 拼接印花双肩包书包 PHASE AO"
+                },
+                "render": "Basic_Native_bid_comment_1",
+                "key": "normal"
+              }
+            ]
+          },
+          {
+            "layout": "grid",
+            "components": [
+              {
+                "data": {
+                  "itemId": "741848576212",
+                  "itemType": "detailPlayBoy",
+                  "majorPicUrl": "http://img.alicdn.com/bao/uploaded/i4/O1CN01sNQkbD1jDSj5mk1wn_!!53-fleamarket.heic",
+                  "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+                  "trackParams": {
+                    "zhimaOffline": "false",
+                    "target_type": "item",
+                    "idlelabel_bucketId": "13",
+                    "target_id": "741848576212",
+                    "isMakePriceHidden": "1",
+                    "sellerInBuyOptions": "newProdPrice|navBarFollowButton|newDetail|sellerReplyStatisticsInfo|nearby|dislikeReport|sellerUpgrade|nearbyBulk|nearbyLuxury|offlineMakePrice|nearbyLowValue",
+                    "detailSpiVersion": "2",
+                    "itemId": "741848576212",
+                    "sellerOptions": "simplePub|newTagPage|myPubSameSpu|spuGuide|itemGuide|toBuyB|mtbFeeds|mtbSell|mtbHome|tagV2|tobuyListV2|tobuyQuery|recommendTagsChange|tobuyInitiative|glbV2|ignoreImageEditor|textSameSpu|cpvUnfoldPublish|tellusNewTask|guidePublishTypeB|priceReferenceTag|showResellList|spuBottomBarItem|myPublish91|publishSyncToCircle|directPublish|searchPublishEntry|textLengthDiagnosis|poiLab|themePublishBanner|myPublish92|myPubActivityEntry|myPublish932|accountGuarantee",
+                    "utAttributeKey_idleCoinDeductionRatio": "0.05",
+                    "sellerId": "i6gVgzA9zz9j4gQ9LOOQ4w==",
+                    "detailRedirectPublishUrl": "",
+                    "idlelabel_serviceUtParams": "[]",
+                    "mainPic": "http://img.alicdn.com/bao/uploaded/i4/O1CN01sNQkbD1jDSj5mk1wn_!!53-fleamarket.heic",
+                    "sellerBucketId": "17",
+                    "sellerInBuyBucketId": "14",
+                    "currentFlowVersion": "3",
+                    "zhimaLogBucketId": "16",
+                    "categoryId": "50122002",
+                    "idlelabel_unShowTrackParams": "{}"
+                  },
+                  "lng": "119.098379",
+                  "title": "【出】PUMA彪马官方 拼接印花双肩包书包 PHASE AO",
+                  "lat": "36.729256"
+                },
+                "render": "Basic_Native_recommend_1",
+                "key": "normal"
+              },
+              {
+                "data": {
+                  "color": "0xFF000000"
+                },
+                "render": "Basic_Native_padding_1",
+                "key": "normal"
+              }
+            ]
+          }
+        ]
+      },
+      "version": "1.0"
+    },
+    "configInfo": {
+      "showResellList": "true",
+      "jumpXyh": "true",
+      "currentFlowVersion": "3",
+      "paymentGuideMask": "false"
+    },
+    "serverTime": "2023-10-11 01:28:27",
+    "buyerDO": {
+      "isFirstOrderUser": "false",
+      "isNewUserIn7Day": "false",
+      "favored": "false"
+    }
+  },
+  "ret": [
+    "SUCCESS::调用成功"
+  ],
+  "v": "1.0"
+}

@@ -1,0 +1,30 @@
+curl \
+-H "x-sgext: JAf1JwI2J4eD%2B7Awo%2FDeqSfEF8URxQTBH8wR1hLABMYLwAvFC8QLxAvEC8QLxAvEC8QLxBTZCsELxBTZFsYLxQvFC8ULxQvFC8ULxQvFC8ULxQvEC80LzQvNC8ULxQvHH9YWwx7DHsAfwhPFBMUVlkbFF8UWxRXCH8RGzR%2FWEsEEzQTHE9YXxRfCBMYExATEBMQExATEBMQExASRBMYEwgTBBMUExQTFBMUExQTWQtZBkATFBMBBx0LFFdYXxRfFFw%3D%3D" \
+-H "umid: KN8BAiBLPPWGLwKLGozJ5SYOn2Vvz0ru" \
+-H "x-sign: azU7Bc002xAAIMc0PyUtQmXfAJWEQMcwyIhFZpCSPPjVvTcg5TR0%2F59SNxh2mAuulVAuxpHMM54kWgNMlwmDdGZ0ZqDHEMcwxxDHMM" \
+-H "x-nettype: WIFI" \
+-H "x-pv: 6.3" \
+-H "x-nq: WIFI" \
+-H "EagleEye-UserData: spm-cnt=a2170.7898010.0.0&spm-url=a2170.8011571.1.2" \
+-H "first_open: 0" \
+-H "x-features: 27" \
+-H "x-app-conf-v: 0" \
+-H "x-mini-wua: HHnB_ev9Ulv7tUU9vTllkjqLLaRXp19WSSzDiX2pHmHtTglrCrD4deB3Cg39GLpZKSVyEdOGB403KATrvGovzEUAMRNTNyMBNnbktjz1rQXcYzYB9chkjZTyP2Ct%2BFzwaM9wrh38T3NtbjN0PNq0yRz2EH%2F7K48QxAIDLTK2AGUVb94k%3D" \
+-H "content-type: application/x-www-form-urlencoded;charset=UTF-8" \
+-H "x-t: 1696958899" \
+-H "Content-Type: application/x-www-form-urlencoded;charset=UTF-8" \
+-H "x-bx-version: 6.5.56" \
+-H "f-refer: mtop" \
+-H "x-extdata: openappkey%3DDEFAULT_AUTH" \
+-H "x-ttid: 231200%40fleamarket_android_7.5.10" \
+-H "x-app-ver: 7.5.10" \
+-H "x-c-traceid: ZSWI%2BiCQI5MDAGY0niNA%2B%2FTl1696958899097005414896" \
+-H "x-location: 0%2C0" \
+-H "x-umt: 3bkBNw1LPGYQvAKLGiucHj9koCrXrxJ0" \
+-H "a-orange-q: appKey=21407387&appVersion=7.5.10&clientAppIndexVersion=1120231010155903344&clientVersionIndexVersion=0" \
+-H "x-utdid: ZSWI%2BiCQI5MDAGY0niNA%2B%2FTl" \
+-H "x-appkey: 21407387" \
+-H "x-devid: AgrDvkS9TE52PB5E\
+-HnLRRijxo7j9OUDfl7j1mQE39Kx" \
+-H "user-agent: MTOPSDK%2F3.1.1.7+%28Android%3B9%3Bblackshark%3BSKW-A0%29" \
+-H "Host: g-acs.m.goofish.com" --data-binary "data=%7B%22commerceAdPlanId%22%3A%22%22%2C%22flowVersion%22%3A%225.0%22%2C%22isOld%22%3Afalse%2C%22itemId%22%3A%22741848576212%22%2C%22needSimpleDetail%22%3Afalse%7D" --compressed "https://g-acs.m.goofish.com/gw/mtop.taobao.idle.awesome.detail.unit/1.0/"
